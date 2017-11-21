@@ -11,8 +11,6 @@ h1 {
   text-align: center;
 }
 
-
-
 h2 {
   font-family: Verdana
   font-weight: 300;
@@ -33,9 +31,8 @@ p {
   color: gray;
 }
 
-nav {
-  color: aquamarine;
-  font-size: 16px
-  tex-align: center;
+.external {
+  color: green;
+  font-size: 16px;
+  text-align: center;
 }
- 
